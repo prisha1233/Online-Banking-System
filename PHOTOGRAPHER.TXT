@@ -1,0 +1,8 @@
+Russ Adams	1980-08-30	MALE	846 Chestnut Road Clementon, NJ 08021	COLOR	USA
+Richard Benson	1955-03-10	MALE	9385 Myers St Myrtle Beach, SC 29577	COLOR	USA
+Nick Cornish	1976-10-03	MALE	7 East Golf St Yorktown Heights, NY 10598	COLOR	USA
+Marie Cosindas	1923-09-22	FEMALE	85 South Victoria Rd Monroe, NY 10950	COLOR	USA
+Arlene Gottfried	1950-08-26	FEMALE	8155 Plymouth St Warner Robins, GA 31088	COLOR	USA
+Dabboo Ratnani	1969-12-24	MALE	9656 Rockledge Ave Melrose, MA 02176	COLOR	USA
+IAN BATES	08/26/1992-08-26	MALE	25 W Monroe Lane Fairport, NY 14450	COLOR	USA
+SASHA ARUTYUNOVA	1990-05-30	FEMALE	7873 Poplar Drive Streamwood, IL 60107	COLOR	USA
