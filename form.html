@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<style>
+  html {
+  background: url("picture.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+  form {border :3px solid red ;
+      border-style: solid;
+      border-color: #1F7ED2 ;
+      width:300px;
+      margin:auto;
+      overflow:hidden; 
+      padding : 10px;  
+      border-radius:auto;
+      text-align: center;
+   }
+.header{
+    padding:20px;
+    text-align: center;
+}
+
+  
+}
+</style>
+<div class="header">
+  <h1><b><center>Welcome to Banking System</center></b></h1>
+</div>
+
+<style> span { background-color: red } </style>
+<form action =  "login.php" >
+
+<input type= text  name =  "username" onkeypress="return noenter()"> Enter Username <br><br>
+
+<input type = text name = "password" onkeypress="return noenter()">  Enter password <br><br>
+
+<img src="captcha.php" width="155" height="150"  alt="CAPTCHA"><br>
+
+<input type  = text name = "guess" > What is the text?<br><br>
+
+<input type = text name = "delay" > Enter the delay <br><br> 
+
+<input type ="submit" value = "submit"  >
+
+</form> 
+
+<script type="text/javascript">
+function noenter() {
+  return !(window.event && window.event.keyCode == 13); }
+</script>
+</html> 
